@@ -66,20 +66,3 @@ Once assigned the employees can check their deadline and update weather they hav
    		![DBCon](https://user-images.githubusercontent.com/117145297/227583844-36d7b45b-eae3-4f64-9f77-06a786f6fe0a.gif)
 		
 Note - Open the DataBase file from the Solutions Explorer inside Visual Studio before running the Application!
-
-# Module Interface
-![Login](https://user-images.githubusercontent.com/117145297/227587790-d4af58be-99bd-4929-938f-9f9ba556fea3.jpeg)
-![Admin](https://user-images.githubusercontent.com/117145297/227587764-efc64b99-2aed-48a9-a691-6a6e64e4652f.jpeg)
-![Manager](https://user-images.githubusercontent.com/117145297/227587794-b601e11c-91b8-43e7-bd56-816106e4945a.jpeg)
-![NewProject](https://user-images.githubusercontent.com/117145297/227587799-41b0eed4-991a-4183-b4a9-8d94940d7da5.jpeg)
-![ProjectLayout](https://user-images.githubusercontent.com/117145297/227587803-33ffc461-d57c-4610-92b8-bb205f9c5dfd.jpeg)
-![EditProject](https://user-images.githubusercontent.com/117145297/227587779-c3475a4a-5d03-4606-83fb-4cab5c5dce51.jpeg)
-![Contributors](https://user-images.githubusercontent.com/117145297/227587774-681b6a26-a256-4963-aa6c-8bb76c68ba14.jpeg)
-![TaskContributor](https://user-images.githubusercontent.com/117145297/227587815-8162ff9e-ffa4-44ec-9528-1012bc4fe743.jpeg)
-![EmployeeHomePage](https://user-images.githubusercontent.com/117145297/227587783-37ab48d6-7066-457a-8e32-1501f5f05f86.jpeg)
-![Task Status](https://user-images.githubusercontent.com/117145297/227587810-aead8a79-268a-4fc2-948c-25f9eebd88a9.jpeg)
-
-### Note 
-- Incase of any major problem, let us know by Creating an [Issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/quickstart) on Github
-- Feel free to `Contribute` to this project if your interesed.
-- This is **Not** suitable for `commercial/real world` use , it is only for `Educational and learning purpose` and could be used as a College or school project. 
