@@ -2,7 +2,7 @@
 
 ![GitHub top language](https://img.shields.io/badge/Language-VB.NET-brightgreen?style=for-the-badge) ![GitHub contributors](https://img.shields.io/badge/Contributor-Cozmeh%20&%20Mr0weird0guy-red?style=for-the-badge) ![GitHub](https://img.shields.io/github/license/Cozmeh/Hover-SearchEffect?style=for-the-badge)
 
-# Aim
+# dim 
 A Desktop Application which help layout the time division and help organize the Life Cycle of the Projects Using Basic `WaterFall Model`.
 
 # Description
